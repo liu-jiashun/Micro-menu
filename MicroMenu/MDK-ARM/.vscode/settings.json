@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "key.h": "c",
+        "main.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "menu.h": "c",
+        "microui.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
